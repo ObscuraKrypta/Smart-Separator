@@ -51,7 +51,6 @@ The dataset used in this project is stored in the file `dataset.xlsx`. It includ
 
 - **Input Features**:
   - Vibration Speed
-  - Drum Speed
   - Belt Speed
   - Aluminum weight in plastics
   - Copper weight in plastics
