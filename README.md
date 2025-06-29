@@ -62,7 +62,6 @@ The dataset used in this project is stored in the file `dataset.xlsx`. It includ
 
 - **Outputs**:
   - Optimal Vibration Speed
-  - Optimal Drum Speed
   - Optimal Belt Speed
   - Optimal Drum Angle
 
